@@ -1,18 +1,17 @@
-## Getting Started
+<h1 align="center">
+  <img src="public/java.png" width="100">
+  <br>
+    Generics
+</h1>
+<p>Tarefa da EBAC "Generics" utilizando codigo generico e adicionando classes diferentes em uma lista.</p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Para executar
 
-## Folder Structure
+Para executar o .jar direto no terminal->
 
-The workspace contains two folders by default, where:
+``` java
+java -jar ExercicioGenerics.jar
+```
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<br>
+ by Popovicz. ͡•_ゝ ͡•
